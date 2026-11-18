@@ -18,6 +18,7 @@ _No entity notes found at initialization._
 
 - [[Ideas/用 Obsidian 记录《思考，快与慢》读书笔记]] - 记录开始做读书笔记的想法。
 - [[Ideas/影响力 - 六条说服原则]] - 《影响力》的说服原则及日常观察练习。
+- [[Ideas/沟通的艺术 - 要点与练习]] - 沟通要点、冲突管理和日常对话自查练习。
 
 ## Other note folders
 
