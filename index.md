@@ -16,7 +16,8 @@ _No entity notes found at initialization._
 
 ## Ideas and knowledge
 
-_No idea, concept, or knowledge notes found at initialization._
+- [[Ideas/用 Obsidian 记录《思考，快与慢》读书笔记]] - 记录开始做读书笔记的想法。
+- [[Ideas/影响力 - 六条说服原则]] - 《影响力》的说服原则及日常观察练习。
 
 ## Other note folders
 
